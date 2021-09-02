@@ -4,6 +4,8 @@
 
 - Based off [Nano CSS Framework Part I](https://github.com/razzakeducation19/nano_css_framework)
 
+- See it in action [here](https://github.com/danmenjivar/gta-website-clone)
+
 - Performs a General CSS Reset
 
 - Defaults 'sans serif' font
